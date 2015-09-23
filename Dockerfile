@@ -1,4 +1,4 @@
-# gui81/alfresco
+# vartana/alfresco
 
 FROM centos:centos7
 MAINTAINER Vartan Arabyan <vartana@gmail.com>
